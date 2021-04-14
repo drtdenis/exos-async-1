@@ -1,0 +1,11 @@
+{
+  "name": "exo-async-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/drtdenis/exos-async-1.git",
+  "author": "drtdenis <drouetdenis2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
